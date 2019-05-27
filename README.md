@@ -4,7 +4,7 @@
 
 ### Books/Tech
 
-[Classic Shell Scripting.pdf](Books/Tech/Classic Shell Scripting.pdf)
+[Classic Shell Scripting.pdf](books/Tech/Classic Shell Scripting.pdf)
 
 脚本语言，主要是Shell的一些语法，包括一些命令的参数。
 
